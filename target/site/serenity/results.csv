@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CRUD test","This will create a new User","SUCCESS","2022-06-24T10:15:07.628+01:00[Europe/London]","0.0","7.76"
+"User CRUD test","This will Fetch user by ID","SUCCESS","2022-06-24T10:15:15.423+01:00[Europe/London]","0.0","0.91"
+"User CRUD test","This will Fetch user by ID","SUCCESS","2022-06-24T10:15:16.329+01:00[Europe/London]","0.0","0.84"
+"User CRUD test","This will Delete user by ID","SUCCESS","2022-06-24T10:15:17.189+01:00[Europe/London]","0.0","1.5"
